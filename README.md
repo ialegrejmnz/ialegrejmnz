@@ -1,3 +1,5 @@
+![](https://www.canva.com/design/DAF0ssOQGsY/J2ph3nHR7H50faeUqcJeTA/view?utm_content=DAF0ssOQGsY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 <h1 align="center">I'm Íñigo Alegre Jiménez</h1>
 <h3 align="center">A passionate Data Science and Physicist</h3>
 
